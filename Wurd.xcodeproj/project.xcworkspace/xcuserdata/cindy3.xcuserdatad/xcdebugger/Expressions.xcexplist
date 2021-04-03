@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "StudentUndo::submit(Undo::Action, int, int, char):StudentUndo.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "changes">
+            </PersistentString>
+            <PersistentString
+               value = "changes.top().u_col">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "StudentTextEditor::undo():StudentTextEditor.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "e_column">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
